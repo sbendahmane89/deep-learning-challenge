@@ -1,4 +1,4 @@
-# ***Module Challenge 21: Deep Learning Challenge***
+# ***Module Challenge 21: deep-learning-challenge***
 
 # **Description:**
 
